@@ -10,7 +10,7 @@ Het moet een clone van deze website zijn https://www.eurekacup.nl/
 
 Kies een technologiestack die geschikt is voor het bouwen van dashboards. Populaire opties zijn:
 Webframeworks: we gaan Gebruik maken.
-JavaScript-bibliotheken: Overweeg React, Angular, of Vue.js voor de frontend.
+JavaScript-bibliotheken: Over voor de frontend.
 Database: Kies een database zoals MySQL om projectgegevens op te slaan.
 Databaseontwerp:
 Ontwerp een databasestructuur om projectgegevens op te slaan. Maak tabellen voor projecten, opdrachtgevers, en andere relevante informatie.
