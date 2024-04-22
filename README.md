@@ -9,15 +9,14 @@ Belangrijkste vereisten:
 Het moet een clone van deze website zijn https://www.eurekacup.nl/
 
 Kies een technologiestack die geschikt is voor het bouwen van dashboards. Populaire opties zijn:
-Webframeworks: Gebruik een webframework zoals Django, Flask, of Ruby on Rails.
+Webframeworks: we gaan Gebruik maken.
 JavaScript-bibliotheken: Overweeg React, Angular, of Vue.js voor de frontend.
-Database: Kies een database zoals MySQL, PostgreSQL, of MongoDB om projectgegevens op te slaan.
+Database: Kies een database zoals MySQL om projectgegevens op te slaan.
 Databaseontwerp:
 Ontwerp een databasestructuur om projectgegevens op te slaan. Maak tabellen voor projecten, opdrachtgevers, en andere relevante informatie.
 Backend-ontwikkeling:
-Bouw een backend-applicatie om gegevens op te halen en te beheren. Implementeer API-eindpunten om projectinformatie te verstrekken aan de frontend.
 Frontend-ontwikkeling:
-Ontwikkel de gebruikersinterface (UI) van het dashboard. Toon een lijst met projecten, filters en zoekmogelijkheden.
+Ontwikkel de gebruikersinterface (UI) van het dashboard. Toon een lijst met projecten.
 Gebruik JavaScript-bibliotheken om interactieve componenten te maken.
 Gebruikersauthenticatie:
 Implementeer gebruikersauthenticatie om alleen geautoriseerde gebruikers toegang te geven tot het dashboard.
@@ -27,6 +26,6 @@ Implementeer gebruikersauthenticatie om alleen geautoriseerde gebruikers toegang
 
 
 
-We gaan een clone van https://www.eurekacup.nl/ maken 
+We gaan een clone van https://www.eurekacup.nl/ maken the frondand
 
 
